@@ -21,4 +21,9 @@ requests
 colorama
 tabulate
 
+If by any chance your script stops working I recommend replacing the script cookies in:
+
+"Cookie": ' "
+
 vecert.io  X: @VECERTAmerica
+
